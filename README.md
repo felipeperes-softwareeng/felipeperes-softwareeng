@@ -25,7 +25,6 @@ Estudante de **Engenharia de Software** apaixonado por tecnologia e focado no de
 ### 📌 Meus Melhores Projetos:
 *   🐍 **[API de Controle Financeiro](https://github.com/felipeperes-softwareeng/api_controle_financeiro_python):** API RESTful desenvolvida em Python com FastAPI para gerenciamento e persistência de transações financeiras.
 *   ☕ **[Estacionamento Inteligente](https://github.com/felipeperes-softwareeng/estacionamento-inteligente):** Sistema em Java voltado para a automação de controle de vagas, entradas e saídas de veículos.
-*   ☕ **[Sistema de Reserva de Hotel](https://github.com/felipeperes-softwareeng/hotel-reservation-system-java):** Aplicação backend em Java aplicando conceitos avançados de POO para gerenciar quartos, reservas e clientes.
 
 ---
 
