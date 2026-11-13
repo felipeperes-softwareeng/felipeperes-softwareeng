@@ -29,5 +29,5 @@ Estudante de **Engenharia de Software** apaixonado por tecnologia e focado no de
 ---
 
 ### 📬 Conecte-se comigo:
-- **LinkedIn:** [Seu Link do LinkedIn aqui]
-- **E-mail:** [Seu E-mail aqui]
+- **LinkedIn:** www.linkedin.com/in/felipe-peres-d-oliveira-7b6ab63b7
+- **E-mail:** felipepdoliveira@gmail.com
